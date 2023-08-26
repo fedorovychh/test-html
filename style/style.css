@@ -5,6 +5,7 @@ body{
 }
 footer{
     font-style: italic;
+    font-size: 4px;
 }
 .element{
     display: flex;
