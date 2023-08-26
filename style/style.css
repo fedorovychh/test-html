@@ -1,13 +1,14 @@
 body{
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    left: 50%;
-    top: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 footer{
     font-style: italic;
 }
 .element{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     margin: 10px;
 }
